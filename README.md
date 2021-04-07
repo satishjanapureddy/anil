@@ -31,4 +31,11 @@ B. JAVA IS STANDARD
 C. WE CAN LEARN
 
 # HOW TO INSERT IMAGE
-![IMAGE OF COLLEGE]
+![IMAGE OF COLLEGE](![image](https://user-images.githubusercontent.com/82016368/113823442-47c95000-979c-11eb-9bad-a9141ed37962.png)
+
+## video insertin
+[video insertio](https://youtu.be/qlTAIsvSr00)
+
+### website link
+[click her to heavenwesite](https://www.vignan.ac.in/)
+

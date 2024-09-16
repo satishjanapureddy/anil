@@ -41,5 +41,5 @@ C. WE CAN LEARN
 # my profile table content
 |name|email id|mobile|profession|location|
 |----|--------|------|----------|--------|
-|satish|satishjanapuredy|7095888568|student|vizag|
+|satish|satishjanapuredy|7077889999|student|vizag|
 
